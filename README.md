@@ -1,5 +1,20 @@
 ## Hi there 👋
 
+- 🔭 I’m currently studying in **SIESGST'26**
+- 👯 I’m currently working on **Mini Project**
+- 👯 I’m pursuing **Artificial Intelligence & Machine Learning**
+
+- 📫 How to reach me **vedant3715@gmail.com**
+
+- ⚡ Fun fact **I hate coding.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/vedant3715" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vedant3715" height="30" width="40" /></a>
+<a href="https://instagram.com/_ritxvik_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vedant_thakur00" height="30" width="40" /></a>
+</p>
+
+
 <!--
 **vedant3715/vedant3715** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
