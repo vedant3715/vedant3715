@@ -1,4 +1,4 @@
-## Hi there 👋
+## hey ready to judge me?
 
 -  I’m currently studying in **SIESGST'26**
 -  I’m currently working on **SKYNET**
