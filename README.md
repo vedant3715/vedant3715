@@ -1,12 +1,12 @@
 ## Hi there 👋
 
 -  I’m currently studying in **SIESGST'26**
--  I’m currently working on **Mini Project**
+-  I’m currently working on **SKYNET**
 -  I’m pursuing **Artificial Intelligence & Machine Learning**
 
 -  How to reach me **vedant3715@gmail.com**
 
--  Fun fact "Everthing u think of me is TRUE"
+-  Fun fact **"Everthing u think of me is TRUE"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
